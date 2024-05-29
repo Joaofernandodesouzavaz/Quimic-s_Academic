@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #cb70ff;
-    color: #FFFFFF;
+    background-image:linear-gradient(155deg, rgb(159, 49, 193), #cb70ff, white) ;
+    color: #000000;
     margin: 0;
     padding: 0;
 }
@@ -13,6 +13,7 @@ body {
 
 header {
     background-color: #050505;
+    color: #f872c4;
     padding: 20px 0;
 }
 
@@ -33,7 +34,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 .section {
@@ -42,12 +43,12 @@ nav ul li a {
 }
 
 h2 {
-    font-size: 36px;
+    font-size: 90px;
     margin-bottom: 20px;
 }
 
 p {
-    font-size: 18px;
+    font-size: 30px;
 }
 
 footer {
@@ -55,3 +56,4 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
